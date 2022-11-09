@@ -1,4 +1,4 @@
-# 前言
+# 前言 （从原作者fork而来，仅供参考学习）
 
 [README in English](README-en.md)
 
